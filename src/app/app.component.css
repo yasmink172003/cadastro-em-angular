@@ -1,0 +1,23 @@
+/* cadastro.component.css */
+.cadastro-container {
+    background-color: red;
+    color: white;
+    padding: 10px;
+  }
+/* lista.component.css */
+.lista-container {
+    background-color: white;
+    padding: 10px;
+  }
+  
+  .lista-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .lista-container li {
+    margin-bottom: 5px;
+  }
+/* app.component.css */
+
+      
